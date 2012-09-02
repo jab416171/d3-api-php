@@ -1,5 +1,5 @@
 Welcome!<br />
 Please enter your battle tag:
-<form action="api.php" method="post">
+<form action="api.php" method="get">
 <input type="text" name="battletag" />
 </form>
